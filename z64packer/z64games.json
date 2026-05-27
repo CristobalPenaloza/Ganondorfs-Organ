@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "game": "Boku No Hero Academia",
     "series": "Anime",
@@ -234,10 +234,10 @@
     "abbrName": "Unknown"
   },
   {
-    "game": "V\u00edctor Jara",
+    "game": "Víctor Jara",
     "series": "Songs",
     "platforms": [],
-    "abbrName": "V\u00edctor Jara"
+    "abbrName": "Víctor Jara"
   },
   {
     "game": "Sonic Adventure 2",
@@ -364,5 +364,6 @@
     "series": "",
     "platforms": [],
     "abbrName": "Undertale"
-  }
+  },
+  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
