@@ -1050,7 +1050,7 @@
     "preview": "https://youtu.be/RBRymJplqqI"
   },
   {
-    "game": "Spirit Tracks",
+    "game": "The Legend of Zelda: Spirit Tracks",
     "song": "Troubled Realm",
     "type": "bgm",
     "categories": [],
@@ -1058,7 +1058,7 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "481f477d-0ad4-4384-acea-753eb7e3c52a",
-    "file": "Spirit Tracks/Troubled Realm.ootrs",
+    "file": "The Legend of Zelda Spirit Tracks/Troubled Realm.ootrs",
     "converters": [
       "Owl Is Not A Cat"
     ],
