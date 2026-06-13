@@ -1,0 +1,21 @@
+name: Z64 - Create assets
+
+on:
+  workflow_dispatch:
+  pull_request_target:
+    types:
+      - closed
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: CristobalPenaloza/z64packer-create-assets@v1
+        with:
+          name: "Ganondorf's Organ"
+          description: "The custom music was too evil for Darunia's Joy so we will host it here instead"
+          binaries-path: 'data/Music/'
+          previews-path: 'previews/Songs/'
+          avatar-url: 'https://avatars.githubusercontent.com/u/111194026?s=96&v=4'

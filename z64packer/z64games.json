@@ -1,368 +1,312 @@
-[
+﻿[
   {
     "game": "Boku No Hero Academia",
     "series": "Anime",
-    "platforms": [],
-    "abbrName": "Boku No Hero Academia"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/My_Hero_Academia_logo_in_Japan_20150106.png"
   },
   {
     "game": "K-On",
     "series": "Anime",
-    "platforms": [],
-    "abbrName": "K-On"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/K-On_English_anime_logo.svg/1280px-K-On_English_anime_logo.svg.png"
   },
   {
     "game": "Puella Magi Madoka Magica",
     "series": "Anime",
-    "platforms": [],
-    "abbrName": "Puella Magi Madoka Magica"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mah%C5%8D_Sh%C5%8Djo_Madoka_Magika_%28Logo%29.png"
   },
   {
     "game": "Sword Art Online",
     "series": "Anime",
-    "platforms": [],
-    "abbrName": "Sword Art Online"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sword_Art_Online_anime_logo.svg/1280px-Sword_Art_Online_anime_logo.svg.png"
   },
   {
-    "game": "Castlevania 3 Draculas Curse",
+    "game": "Castlevania III: Dracula's Curse",
     "series": "Castlevania Series",
-    "platforms": [],
-    "abbrName": "Castlevania 3 Draculas Curse"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/efb53b87d5f5286f29b7791ec36a34f8.png"
   },
   {
-    "game": "Symphony of the Night",
+    "game": "Castlevania: Symphony of the Night",
     "series": "Castlevania Series",
-    "platforms": [],
-    "abbrName": "Symphony of the Night"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/e946209592563be0f01c844ab2170f0c.png"
   },
   {
     "game": "Deltarune",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Deltarune"
+    "logo": "https://i.imgur.com/xMbDSCy.png"
   },
   {
     "game": "Devil May Cry",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Devil May Cry"
+    "series": "Devil May Cry Series",
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/a30499ad9ae847c32510caccd5d2af71.png"
   },
   {
     "game": "Final Fantasy V",
     "series": "Final Fantasy Series",
-    "platforms": [],
-    "abbrName": "Final Fantasy V"
+    "logo": "https://i.imgur.com/73YnJ1s.png"
   },
   {
     "game": "Final Fantasy VI",
     "series": "Final Fantasy Series",
-    "platforms": [],
-    "abbrName": "Final Fantasy VI"
+    "logo": "https://i.imgur.com/G4PPARq.png"
   },
   {
     "game": "Kiki's Delivery Service",
-    "series": "Ghibli",
-    "platforms": [],
-    "abbrName": "Kiki's Delivery Service"
+    "series": "Studio Ghibli",
+    "logo": "https://imgproxy-production.palace-cinemas.workers.dev/insecure/rs:fill:0:300/q:1/plain/https://storage.googleapis.com/production-cms-storage-bucket/Kiki's%20Delivery%20Service.png"
   },
   {
     "game": "My Neighbor Totoro",
-    "series": "Ghibli",
-    "platforms": [],
-    "abbrName": "My Neighbor Totoro"
+    "series": "Studio Ghibli",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/My_Neighbour_Totoro_%281988%2C_ENG%29.png/revision/latest/scale-to-width-down/1200?cb=20230910215556"
   },
   {
     "game": "Porco Rosso",
-    "series": "Ghibli",
-    "platforms": [],
-    "abbrName": "Porco Rosso"
+    "series": "Studio Ghibli",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Porco_Rosso_logo.png"
   },
   {
     "game": "Spirited Away",
-    "series": "Ghibli",
-    "platforms": [],
-    "abbrName": "Spirited Away"
+    "series": "Studio Ghibli",
+    "logo": "https://wallpapers.com/images/hd/spirited-away-logo-graphic-oxnljzvulth7qi2v.jpg"
   },
   {
     "game": "Memes",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Memes"
+    "logo": "https://i.redd.it/uzgb73segzf91.gif"
   },
   {
     "game": "Persona 5",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Persona 5"
+    "series": "Persona Series",
+    "logo": "https://i.imgur.com/47qHHu4.png"
   },
   {
-    "game": "Antonin Dvorak",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Antonin Dvorak"
+    "game": "Antonín Dvořák",
+    "series": "Classical Compositions",
+    "logo": "https://cdn.bachtrack.com/files/368635-dvorak-1882.jpg"
   },
   {
     "game": "Brujeria",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Brujeria"
+    "series": "Bands and Artists",
+    "logo": "https://images.squarespace-cdn.com/content/v1/571045a359827ee01809adda/1461085211512-LWTNCOOTYF2VM0V2NTW3/Brujeri%CC%81a_Logo+copy.png"
   },
   {
-    "game": "Dies Irae",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Dies Irae"
+    "game": "The Shining",
+    "series": "TV and Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Shining_franchise_logo.png"
   },
   {
     "game": "DragonForce",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "DragonForce"
+    "series": "Bands and Artists",
+    "logo": "https://label.napalmrecords.com/images/bands/dragonforce/2024-dragonforce-bandlogo-web.png"
   },
   {
     "game": "Elvis Crespo",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Elvis Crespo"
+    "series": "Bands and Artists",
+    "logo": "https://r2.theaudiodb.com/images/media/artist/logo/crespo-elvis-53c2b268f11b6.png"
   },
   {
-    "game": "Georg Ots",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Georg Ots"
+    "game": "Boris Mokrousov",
+    "series": "Bands and Artists",
+    "logo": "https://images.genius.com/f7f520d0c345a2eea02082ff69684570.505x505x1.jpg"
   },
   {
     "game": "Georges Brassens",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Georges Brassens"
+    "series": "Bands and Artists",
+    "logo": "https://cdn-images.dzcdn.net/images/artist/c1d1e7f0defadb4566e59e8f19fcd45e/1900x1900-000000-80-0-0.jpg"
   },
   {
     "game": "Impaled Nazarene",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Impaled Nazarene"
+    "series": "Bands and Artists",
+    "logo": "https://osmoseproductions-label.com/wp-content/uploads/2017/03/IMPALEDNAZARENE_Logo_Red_web.png"
   },
   {
     "game": "Inti Illimani",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Inti Illimani"
+    "series": "Bands and Artists",
+    "logo": "https://inti-illimani.cl/wp-content/uploads/2025/01/logo-inti-rojo.png"
   },
   {
-    "game": "Jo Yeong-wook",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Jo Yeong-wook"
+    "game": "Oldboy",
+    "series": "TV and Movies",
+    "logo": "https://image.tmdb.org/t/p/original/6ipkwcs7iXUGcrCGXgYERduuTtV.png"
   },
   {
     "game": "Lynyrd Skynyrd",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Lynyrd Skynyrd"
+    "series": "Bands and Artists",
+    "logo": "https://iconape.com/wp-content/png_logo_vector/lynyrd-skynyrd-logo.png"
   },
   {
-    "game": "Malmsteen Yngwie",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Malmsteen Yngwie"
+    "game": "Yngwie Malmsteen",
+    "series": "Bands and Artists",
+    "logo": "https://images.squarespace-cdn.com/content/v1/68b76a075249b8313e57cbef/301bc19c-4260-4ba0-8d65-17526600c742/yngwie_malmsteen_logo_swedish_yellow2.png?format=1500w"
   },
   {
     "game": "Mariah Carey",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Mariah Carey"
+    "series": "Bands and Artists",
+    "logo": "https://mariahcarey.com/wp-content/uploads/2021/12/MClogo-footer-1.png"
   },
   {
-    "game": "Matwei Blanter",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Matwei Blanter"
+    "game": "Matvey Blanter",
+    "series": "Bands and Artists",
+    "logo": "https://images.genius.com/e847d292cffe620c10da319b81d12052.981x981x1.jpg"
   },
   {
     "game": "Mordechai Gebirtig",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Mordechai Gebirtig"
+    "series": "Bands and Artists",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Mordechaj_Gebirtig.jpg"
   },
   {
     "game": "Olivia Rodrigo",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Olivia Rodrigo"
+    "series": "Bands and Artists",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Olivia_Rodrigo_singles_logo_purple.svg/1280px-Olivia_Rodrigo_singles_logo_purple.svg.png"
   },
   {
     "game": "Rage Against The Machine",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Rage Against The Machine"
+    "series": "Bands and Artists",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rage_Against_the_Machine_%28Logo%29.png/1280px-Rage_Against_the_Machine_%28Logo%29.png"
   },
   {
     "game": "Rick Astley",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Rick Astley"
+    "series": "Bands and Artists",
+    "logo": "https://preview.redd.it/what-font-logo-for-rick-astley-used-1987-v0-d55k39gutq7b1.png?width=569&format=png&auto=webp&s=05e1f334d26bbfcc22c9cf2acbf9bc013648fa1f"
   },
   {
     "game": "Sandy Marton",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Sandy Marton"
+    "series": "Bands and Artists",
+    "logo": "https://i.discogs.com/kq11Nwuqg9MxKz_Q4SbKtRmY16j5LY3Gug2aDEO8NDk/rs:fit/g:sm/q:90/h:467/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzY3/LTE2NTQ5NTIxMDIt/ODUzMC5qcGVn.jpeg"
   },
   {
     "game": "Smash Mouth",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Smash Mouth"
+    "series": "Bands and Artists",
+    "logo": "https://i.imgur.com/hyGZLRv.png"
   },
   {
     "game": "Summoning",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Summoning"
+    "series": "Bands and Artists",
+    "logo": "https://label.napalmrecords.com/images/bands/summoning/summoning_band_logo_web_white_napalm_records.png"
   },
   {
     "game": "Toxic Holocaust",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Toxic Holocaust"
+    "series": "Bands and Artists",
+    "logo": "https://s3.amazonaws.com/mnople/storefront-media/1502_db0df0dbfb73c9e9bbc650801a7cf2e8.png"
   },
   {
-    "game": "Unknown",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "Unknown"
+    "game": "Unknown"
   },
   {
-    "game": "V\u00edctor Jara",
-    "series": "Songs",
-    "platforms": [],
-    "abbrName": "V\u00edctor Jara"
+    "game": "Víctor Jara",
+    "series": "Bands and Artists",
+    "logo": "https://r2.theaudiodb.com/images/media/artist/logo/jara-vctor-58835df7c216b.png"
   },
   {
     "game": "Sonic Adventure 2",
-    "series": "Sonic Series",
-    "platforms": [],
-    "abbrName": "Sonic Adventure 2"
+    "series": "Sonic the Hedgehog Series",
+    "logo": "https://i.imgur.com/aVHEpfm.png"
   },
   {
-    "game": "Spirit Tracks",
+    "game": "The Legend of Zelda: Spirit Tracks",
     "series": "The Legend of Zelda Series",
-    "platforms": [],
-    "abbrName": "Spirit Tracks"
+    "logo": "https://i.imgur.com/8Jcwd5a.png",
+    "short_name": "Zelda: Spirit Tracks"
   },
   {
-    "game": "Touhou 11 - Subterranean Animism",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou 11 - Subterranean Animism"
+    "game": "Touhou 11: Subterranean Animism",
+    "series": "Touhou Series",
+    "logo": "https://i.imgur.com/TGbpxDH.png",
+    "short_name": "Touhou 11"
   },
   {
-    "game": "Touhou 15 - Legacy of Lunatic Kingdom",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou 15 - Legacy of Lunatic Kingdom"
+    "game": "Touhou 15: Legacy of Lunatic Kingdom",
+    "series": "Touhou Series",
+    "logo": "https://i.imgur.com/PY86OeL.png",
+    "short_name": "Touhou 15"
   },
   {
-    "game": "Touhou 18",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou 18"
+    "game": "Touhou 18: Unconnected Marketeers",
+    "series": "Touhou Series",
+    "logo": "https://i.imgur.com/ZDsMCJ5.png",
+    "short_name": "Touhou 18"
   },
   {
-    "game": "Touhou 4",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou 4"
+    "game": "Touhou 4: Lotus Land Story",
+    "series": "Touhou Series",
+    "logo": "https://i.imgur.com/QRTgB7g.png",
+    "short_name": "Touhou 4"
   },
   {
-    "game": "Touhou 6",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou 6"
+    "game": "Touhou 6: The Embodiment of Scarlet Devil",
+    "series": "Touhou Series",
+    "logo": "https://i.imgur.com/0f9Uu7j.png",
+    "short_name": "Touhou 6"
   },
   {
-    "game": "Touhou 8",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou 8"
+    "game": "Touhou 8: Imperishable Night",
+    "series": "Touhou Series",
+    "logo": "https://i.imgur.com/k7pDWwJ.png",
+    "short_name": "Touhou 8"
   },
   {
-    "game": "Touhou CD - Changeability of Strange Dream",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou CD - Changeability of Strange Dream"
+    "game": "Touhou CD 3: Changeability of Strange Dream",
+    "series": "Touhou Series",
+    "logo": "https://jetta.vgmtreasurechest.com/soundtracks/zun-s-music-collection-03-changeability-of-strange-dream/00%20Front.jpg",
+    "short_name": "Touhou CD 3"
   },
   {
-    "game": "Touhou CD - Magical Astronomy",
-    "series": "Touhou",
-    "platforms": [],
-    "abbrName": "Touhou CD - Magical Astronomy"
+    "game": "Touhou CD 5: Magical Astronomy",
+    "series": "Touhou Series",
+    "logo": "https://lambda.vgmtreasurechest.com/soundtracks/zun-s-music-collection-05-magical-astronomy/00%20Front.jpg",
+    "short_name": "Touhou CD 5"
   },
   {
     "game": "Frozen",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "Frozen"
+    "logo": "https://image.tmdb.org/t/p/original/w9Ay1GBVd3j60ZGOwrJ3J95bzFa.png"
   },
   {
     "game": "LazyTown",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "LazyTown"
+    "logo": "https://image.tmdb.org/t/p/original/i26SHE1M5kyL3GMCwRwqpIYyhTu.png"
   },
   {
     "game": "Merrie Melodies",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "Merrie Melodies"
+    "logo": "https://image.spreadshirtmedia.com/image-server/v1/designs/1039038594,width=178,height=178.png"
   },
   {
     "game": "Nightmare Before Christmas",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "Nightmare Before Christmas"
+    "logo": "https://image.tmdb.org/t/p/original/eK3USeUhqaqbvf89DfAL8FWvBgy.png"
   },
   {
     "game": "Rick And Morty",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "Rick And Morty"
+    "logo": "https://image.tmdb.org/t/p/original/wq3wqFLwwqnhG6DxmSji9ehLcx6.png"
   },
   {
     "game": "Robot Wars (TV show)",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "Robot Wars (TV show)"
+    "logo": "https://cdn2.steamgriddb.com/logo_thumb/fa0ecdc7e081a2eb94b490b809841680.png"
   },
   {
     "game": "SpongeBob SquarePants",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "SpongeBob SquarePants"
+    "logo": "https://image.tmdb.org/t/p/original/imM7dqtVl070IIKyOqzOHmHFXqq.png"
   },
   {
     "game": "The Godfather",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "The Godfather"
+    "logo": "https://image.tmdb.org/t/p/original/kysDTCloxUPJ1BILI4f8gs74fcr.png"
   },
   {
     "game": "Twin Peaks",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "Twin Peaks"
+    "logo": "https://image.tmdb.org/t/p/original/7FIVhfOPEjgb4Wver9Cfy9ETMTM.png"
   },
   {
     "game": "X-Men The Animated Series",
     "series": "TV and Movies",
-    "platforms": [],
-    "abbrName": "X-Men The Animated Series"
+    "logo": "https://image.tmdb.org/t/p/original/sj8UwAX0wjx1Xu6G1NTWLlMG9py.png"
   },
   {
     "game": "Undertale",
-    "series": "",
-    "platforms": [],
-    "abbrName": "Undertale"
-  }
+    "logo": "https://i.imgur.com/nbnFGpu.png"
+  },
+  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

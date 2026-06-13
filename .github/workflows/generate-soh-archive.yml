@@ -6,6 +6,7 @@ on:
 
 jobs:
   build:
+    if: github.repository == 'GanondorfsOrgan/Ganondorfs-Organ'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
