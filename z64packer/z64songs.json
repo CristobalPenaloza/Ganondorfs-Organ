@@ -207,7 +207,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "9a5b4e46-63ba-4371-a04d-9b5077031395",
-    "file": "Castlevania Symphony of the Night/Draculas Castle.ootrs"
+    "file": "Castlevania Symphony of the Night/Draculas Castle.ootrs",
+    "preview": "Castlevania Symphony of the Night/Draculas Castle.mp3"
   },
   {
     "game": "Castlevania: Symphony of the Night",
@@ -287,7 +288,8 @@
     "usesCustomSamples": true,
     "usesFormmask": false,
     "uuid": "2d03faec-90f6-45b9-8f8b-c72000fbb052",
-    "file": "Deltarune/Checker Dance.ootrs"
+    "file": "Deltarune/Checker Dance.ootrs",
+    "preview": "Deltarune/Checker Dance.mp3"
   },
   {
     "game": "Deltarune",
@@ -351,7 +353,8 @@
     "file": "Devil May Cry/Devil Trigger.ootrs",
     "converters": [
       "KamekoSkye"
-    ]
+    ],
+    "preview": "Devil May Cry/Devil Trigger.mp3"
   },
   {
     "game": "Final Fantasy V",
@@ -560,7 +563,8 @@
       "EricBartusch"
     ],
     "uuid": "0bb8c21c-6199-4419-a1f0-d3465c16c581",
-    "file": "DragonForce/Through the Fire and Flames Riff.ootrs"
+    "file": "DragonForce/Through the Fire and Flames Riff.ootrs",
+    "preview": "DragonForce/Through the Fire and Flames Riff.mp3"
   },
   {
     "game": "DragonForce",
@@ -612,7 +616,8 @@
       "EricBartusch"
     ],
     "uuid": "053494f5-74c4-4247-ab6f-2f657f8b8b1a",
-    "file": "DragonForce/Through the Fire and Flames.ootrs"
+    "file": "DragonForce/Through the Fire and Flames.ootrs",
+    "preview": "DragonForce/Through the Fire and Flames.mp3"
   },
   {
     "game": "Elvis Crespo",
@@ -746,7 +751,8 @@
     "file": "Lynyrd Skynyrd/Free Bird Solo.ootrs",
     "converters": [
       "Yackole"
-    ]
+    ],
+    "preview": "Lynyrd Skynyrd/Free Bird Solo.mp3"
   },
   {
     "game": "Yngwie Malmsteen",
@@ -828,7 +834,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7554f505-8c22-46a0-b4be-1b4dfa643bb0",
-    "file": "Mariah Carey/All I Want For Christmas Is You.ootrs"
+    "file": "Mariah Carey/All I Want For Christmas Is You.ootrs",
+    "preview": "Mariah Carey/All I Want For Christmas Is You.mp3"
   },
   {
     "game": "Matvey Blanter",
@@ -910,7 +917,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "2183eb2f-89c4-4193-a4ea-0ed90a0f8c37",
-    "file": "Olivia Rodrigo/vampire.ootrs"
+    "file": "Olivia Rodrigo/vampire.ootrs",
+    "preview": "Olivia Rodrigo/vampire.mp3"
   },
   {
     "game": "Rage Against The Machine",
@@ -1107,7 +1115,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "3e8a80cf-11ef-4951-bfcd-f080801d32ae",
-    "file": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.ootrs"
+    "file": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.ootrs",
+    "preview": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.mp3"
   },
   {
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
@@ -1134,7 +1143,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7df690ef-879a-4b8c-aa35-fd212842d8b2",
-    "file": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies.ootrs"
+    "file": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies.ootrs",
+    "preview": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies.mp3"
   },
   {
     "game": "Touhou 18: Unconnected Marketeers",
@@ -1164,7 +1174,8 @@
     "file": "Touhou 18 Unconnected Marketeers/The Princess Who Slays Dragon Kings.ootrs",
     "converters": [
       "Shijima"
-    ]
+    ],
+    "preview": "Touhou 18 Unconnected Marketeers/The Princess Who Slays Dragon Kings.mp3"
   },
   {
     "game": "Touhou 4: Lotus Land Story",
@@ -1205,7 +1216,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "32517e3f-9e93-42d2-9139-ee7738262f7c",
-    "file": "Touhou 4 Lotus Land Story/Bad Apple Nomico Remix.ootrs"
+    "file": "Touhou 4 Lotus Land Story/Bad Apple Nomico Remix.ootrs",
+    "preview": "Touhou 4 Lotus Land Story/Bad Apple Nomico Remix.mp3"
   },
   {
     "game": "Touhou 4: Lotus Land Story",
@@ -1320,7 +1332,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "ce61b964-6b59-4cf2-b2d7-f53c5ff690d8",
-    "file": "Touhou CD 3 Changeability of Strange Dream/Kid's Festival ~ Innocent Treasures.ootrs"
+    "file": "Touhou CD 3 Changeability of Strange Dream/Kid's Festival ~ Innocent Treasures.ootrs",
+    "preview": "Touhou CD 3 Changeability of Strange Dream/Kid's Festival ~ Innocent Treasures.mp3"
   },
   {
     "game": "Touhou CD 5: Magical Astronomy",
@@ -1350,7 +1363,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "2952576a-47b1-44f5-b3c3-ef7fbc308bda",
-    "file": "Touhou CD 5 Magical Astronomy/Greenwich in the Sky.ootrs"
+    "file": "Touhou CD 5 Magical Astronomy/Greenwich in the Sky.ootrs",
+    "preview": "Touhou CD 5 Magical Astronomy/Greenwich in the Sky.mp3"
   },
   {
     "game": "Frozen",
@@ -1399,7 +1413,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "bd4b08f1-5154-4a1b-8841-2a45993a24b4",
-    "file": "Frozen/Let It Go.ootrs"
+    "file": "Frozen/Let It Go.ootrs",
+    "preview": "Frozen/Let It Go.mp3"
   },
   {
     "game": "LazyTown",
@@ -1461,7 +1476,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "52b2361e-b0b5-4b15-a14d-ff475154683b",
-    "file": "Merrie Melodies/Merrily We Roll Along.ootrs"
+    "file": "Merrie Melodies/Merrily We Roll Along.ootrs",
+    "preview": "Merrie Melodies/Merrily We Roll Along.mp3"
   },
   {
     "game": "Nightmare Before Christmas",
@@ -1521,7 +1537,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "5194d0d7-66bf-4a8f-8318-b329d3d6ea7a",
-    "file": "SpongeBob SquarePants/Grass Skirt Chase.ootrs"
+    "file": "SpongeBob SquarePants/Grass Skirt Chase.ootrs",
+    "preview": "SpongeBob SquarePants/Grass Skirt Chase.mp3"
   },
   {
     "game": "The Godfather",
@@ -1532,7 +1549,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "a425d71e-a895-40c1-84cf-38abcf98675c",
-    "file": "The Godfather/Love Theme.ootrs"
+    "file": "The Godfather/Love Theme.ootrs",
+    "preview": "The Godfather/Love Theme.mp3"
   },
   {
     "game": "Twin Peaks",
@@ -1558,7 +1576,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "9b8007dc-3080-44c6-a4d1-d624c9a2bf20",
-    "file": "Twin Peaks/Laura Palmer's Theme.ootrs"
+    "file": "Twin Peaks/Laura Palmer's Theme.ootrs",
+    "preview": "Twin Peaks/Laura Palmer's Theme.mp3"
   },
   {
     "game": "X-Men The Animated Series",
@@ -1592,7 +1611,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "4152ebb1-81e6-424a-9894-049d61e410a6",
-    "file": "Undertale/Alphys.ootrs"
+    "file": "Undertale/Alphys.ootrs",
+    "preview": "Undertale/Alphys.mp3"
   },
   {
     "game": "Undertale",
@@ -1612,7 +1632,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "eabec8fe-bff4-4d87-ae6a-8d19a3e147e6",
-    "file": "Undertale/Battle Against A True Hero.ootrs"
+    "file": "Undertale/Battle Against A True Hero.ootrs",
+    "preview": "Undertale/Battle Against A True Hero.mp3"
   },
   {
     "game": "Undertale",
@@ -1641,7 +1662,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "03e04c78-3027-47a7-84c4-a39f8a8b8dc2",
-    "file": "Undertale/CYRCTAHIDRAMOMPOA.ootrs"
+    "file": "Undertale/CYRCTAHIDRAMOMPOA.ootrs",
+    "preview": "Undertale/CYRCTAHIDRAMOMPOA.mp3"
   },
   {
     "game": "Undertale",
@@ -1664,7 +1686,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "f2190139-0e56-478d-adc0-709dad1e1dfe",
-    "file": "Undertale/Death By Glamour.ootrs"
+    "file": "Undertale/Death By Glamour.ootrs",
+    "preview": "Undertale/Death By Glamour.mp3"
   },
   {
     "game": "Undertale",
@@ -1684,7 +1707,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "e572d83e-8ff1-4131-b6d8-49806febec50",
-    "file": "Undertale/MEGALOVANIA V2.ootrs"
+    "file": "Undertale/MEGALOVANIA V2.ootrs",
+    "preview": "Undertale/MEGALOVANIA V2.mp3"
   },
   {
     "game": "Undertale",
@@ -1709,7 +1733,8 @@
     "usesCustomSamples": true,
     "usesFormmask": false,
     "uuid": "983e2ea2-71fe-4558-bf74-728e7d8ec51f",
-    "file": "Undertale/Temmie Village.ootrs"
+    "file": "Undertale/Temmie Village.ootrs",
+    "preview": "Undertale/Temmie Village.mp3"
   },
   {
     "game": "Deltarune",
@@ -1731,7 +1756,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "7a02f2a9-4a06-45b1-924d-8639344ad3a7",
-    "file": "Deltarune/HEY EVERY !.ootrs"
+    "file": "Deltarune/HEY EVERY !.ootrs",
+    "preview": "Deltarune/HEY EVERY !.mp3"
   },
   {
     "game": "Undertale",
@@ -1751,7 +1777,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "df4075f5-9872-448f-896c-9d22304dd0f8",
-    "file": "Undertale/Megalovania.ootrs"
+    "file": "Undertale/Megalovania.ootrs",
+    "preview": "Undertale/Megalovania.mp3"
   },
   {
     "game": "Undertale",
@@ -1774,7 +1801,8 @@
     "usesCustomSamples": false,
     "usesFormmask": false,
     "uuid": "d1fec6e0-07b8-4b47-ba11-fe1118f8d5ef",
-    "file": "Undertale/sans.ootrs"
+    "file": "Undertale/sans.ootrs",
+    "preview": "Undertale/sans.mp3"
   },
   {
     "game": "Undertale",
@@ -1853,7 +1881,7 @@
     "usesFormmask": false,
     "uuid": "5557b4dc-d83c-4efb-b342-c8b52590ac60",
     "file": "Undertale/Dummy!.ootrs",
-    "preview": ""
+    "preview": "Undertale/Dummy!.mp3"
   },
   {
     "game": "Undertale",
@@ -1932,7 +1960,7 @@
     "usesFormmask": false,
     "uuid": "09734453-ac04-47f4-b630-0d1a8ddb6d45",
     "file": "Undertale/Bonetrousle.ootrs",
-    "preview": ""
+    "preview": "Undertale/Bonetrousle.mp3"
   },
   {
     "game": "Undertale",
@@ -2011,7 +2039,7 @@
     "usesFormmask": false,
     "uuid": "72de0302-681e-43be-9d57-6bf3302da87a",
     "file": "Undertale/Another Medium.ootrs",
-    "preview": ""
+    "preview": "Undertale/Another Medium.mp3"
   },
   {
     "game": "Undertale",
@@ -2090,7 +2118,7 @@
     "usesFormmask": false,
     "uuid": "689acf2a-77a0-47cc-99b6-f77fc9e71b27",
     "file": "Undertale/Bergentrückung + Asgore.ootrs",
-    "preview": ""
+    "preview": "Undertale/Bergentrückung + Asgore.mp3"
   },
   {
     "game": "Undertale",
@@ -2169,7 +2197,7 @@
     "usesFormmask": false,
     "uuid": "7daf6e6b-d556-4d3b-955c-17857b921ae5",
     "file": "Undertale/Ruins.ootrs",
-    "preview": ""
+    "preview": "Undertale/Ruins.mp3"
   },
   {
     "game": "Undertale",
@@ -2248,7 +2276,7 @@
     "usesFormmask": false,
     "uuid": "25cba986-710e-4609-8989-bc55697f0771",
     "file": "Undertale/Here we are.ootrs",
-    "preview": ""
+    "preview": "Undertale/Here we are.mp3"
   },
   {
     "game": "Deltarune",
@@ -2327,7 +2355,7 @@
     "usesFormmask": false,
     "uuid": "25d9d9c7-6e82-4193-a570-68d3e00ceb9b",
     "file": "Deltarune/Dark Sanctuary.ootrs",
-    "preview": ""
+    "preview": "Deltarune/Dark Sanctuary.mp3"
   },
   {
     "game": "Deltarune",
@@ -2406,7 +2434,7 @@
     "usesFormmask": false,
     "uuid": "30833458-f177-4987-969b-c40bd04853d5",
     "file": "Deltarune/It's Pronounced Rules.ootrs",
-    "preview": ""
+    "preview": "Deltarune/It's Pronounced Rules.mp3"
   },
   {
     "game": "Deltarune",
@@ -2485,7 +2513,6 @@
     "usesFormmask": false,
     "uuid": "0401dc39-d27c-499b-a55f-502eafae4f7f",
     "file": "Deltarune/Scarlet Forest.ootrs",
-    "preview": ""
-  },
-  "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
+    "preview": "Deltarune/Scarlet Forest.mp3"
+  }
 ]
