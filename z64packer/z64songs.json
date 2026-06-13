@@ -12,7 +12,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/_V_oAC2kwOU"
+    "preview": "https://youtu.be/_V_oAC2kwOU",
+    "lufs": "-16.98"
   },
   {
     "game": "K-On",
@@ -27,7 +28,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/iHn753OuTEE"
+    "preview": "https://youtu.be/iHn753OuTEE",
+    "lufs": "-19.81"
   },
   {
     "game": "K-On",
@@ -42,7 +44,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/ebhpCCJapGk"
+    "preview": "https://youtu.be/ebhpCCJapGk",
+    "lufs": "-17.26"
   },
   {
     "game": "Puella Magi Madoka Magica",
@@ -57,7 +60,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/P1VCtWeji9s"
+    "preview": "https://youtu.be/P1VCtWeji9s",
+    "lufs": "-19.01"
   },
   {
     "game": "Sword Art Online",
@@ -72,7 +76,8 @@
     "converters": [
       "Darkangel93x"
     ],
-    "preview": "https://youtu.be/DiCKoFRK9ic"
+    "preview": "https://youtu.be/DiCKoFRK9ic",
+    "lufs": "-17.36"
   },
   {
     "game": "Castlevania III: Dracula's Curse",
@@ -107,7 +112,8 @@
     "converters": [
       "Joshua8600"
     ],
-    "preview": "https://youtu.be/1aAIBx2Pu4g"
+    "preview": "https://youtu.be/1aAIBx2Pu4g",
+    "lufs": "-20.77"
   },
   {
     "game": "Castlevania: Symphony of the Night",
@@ -163,7 +169,8 @@
     "converters": [
       "splemb"
     ],
-    "preview": "https://youtu.be/BZCl68vcYIo"
+    "preview": "https://youtu.be/BZCl68vcYIo",
+    "lufs": "-18.98"
   },
   {
     "game": "Castlevania: Symphony of the Night",
@@ -208,7 +215,8 @@
     "usesFormmask": false,
     "uuid": "9a5b4e46-63ba-4371-a04d-9b5077031395",
     "file": "Castlevania Symphony of the Night/Draculas Castle.ootrs",
-    "preview": "Castlevania Symphony of the Night/Draculas Castle.mp3"
+    "preview": "Castlevania Symphony of the Night/Draculas Castle.mp3",
+    "lufs": "-20.63"
   },
   {
     "game": "Castlevania: Symphony of the Night",
@@ -238,7 +246,8 @@
     "converters": [
       "IAmNamedGravy"
     ],
-    "preview": "https://youtu.be/Mt8sG0eZbio"
+    "preview": "https://youtu.be/Mt8sG0eZbio",
+    "lufs": "-21.50"
   },
   {
     "game": "Deltarune",
@@ -253,7 +262,8 @@
     "converters": [
       "MrMario7788"
     ],
-    "preview": "https://youtu.be/py52f1ZCqBE"
+    "preview": "https://youtu.be/py52f1ZCqBE",
+    "lufs": "-15.60"
   },
   {
     "game": "Deltarune",
@@ -268,7 +278,8 @@
     "converters": [
       "Fish_waffle64"
     ],
-    "preview": "https://youtu.be/61rIN8Zy2uU"
+    "preview": "https://youtu.be/61rIN8Zy2uU",
+    "lufs": "-17.06"
   },
   {
     "game": "Deltarune",
@@ -289,7 +300,8 @@
     "usesFormmask": false,
     "uuid": "2d03faec-90f6-45b9-8f8b-c72000fbb052",
     "file": "Deltarune/Checker Dance.ootrs",
-    "preview": "Deltarune/Checker Dance.mp3"
+    "preview": "Deltarune/Checker Dance.mp3",
+    "lufs": "-14.67"
   },
   {
     "game": "Deltarune",
@@ -304,7 +316,8 @@
     "converters": [
       "Fish_waffle64"
     ],
-    "preview": "https://youtu.be/539nGOzTR6s"
+    "preview": "https://youtu.be/539nGOzTR6s",
+    "lufs": "-15.46"
   },
   {
     "game": "Deltarune",
@@ -319,7 +332,8 @@
     "converters": [
       "Bluwiikoon"
     ],
-    "preview": "https://youtu.be/b5MtBmKIiGM"
+    "preview": "https://youtu.be/b5MtBmKIiGM",
+    "lufs": "-21.05"
   },
   {
     "game": "Deltarune",
@@ -334,7 +348,8 @@
     "converters": [
       "TheGael95"
     ],
-    "preview": "https://youtu.be/BLzMrqMU6lA"
+    "preview": "https://youtu.be/BLzMrqMU6lA",
+    "lufs": "-16.23"
   },
   {
     "game": "Devil May Cry",
@@ -354,7 +369,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "Devil May Cry/Devil Trigger.mp3"
+    "preview": "Devil May Cry/Devil Trigger.mp3",
+    "lufs": "-13.41"
   },
   {
     "game": "Final Fantasy V",
@@ -369,7 +385,8 @@
     "converters": [
       "NewSoupVi"
     ],
-    "preview": "https://youtu.be/OHsX0B-5qPk"
+    "preview": "https://youtu.be/OHsX0B-5qPk",
+    "lufs": "-14.11"
   },
   {
     "game": "Final Fantasy VI",
@@ -384,7 +401,8 @@
     "converters": [
       "The Sound Defense"
     ],
-    "preview": "https://youtu.be/0RTp_pNrbcg"
+    "preview": "https://youtu.be/0RTp_pNrbcg",
+    "lufs": "-16.78"
   },
   {
     "game": "Kiki's Delivery Service",
@@ -399,7 +417,8 @@
     "converters": [
       "batenjan"
     ],
-    "preview": "https://youtu.be/6tqSev1Nr3U"
+    "preview": "https://youtu.be/6tqSev1Nr3U",
+    "lufs": "-17.68"
   },
   {
     "game": "My Neighbor Totoro",
@@ -414,7 +433,8 @@
     "converters": [
       "batenjan"
     ],
-    "preview": "https://youtu.be/odqlwIRXrU8"
+    "preview": "https://youtu.be/odqlwIRXrU8",
+    "lufs": "-13.91"
   },
   {
     "game": "Porco Rosso",
@@ -429,7 +449,8 @@
     "converters": [
       "batenjan"
     ],
-    "preview": "https://youtu.be/H7nGSlkdLZg"
+    "preview": "https://youtu.be/H7nGSlkdLZg",
+    "lufs": "-18.49"
   },
   {
     "game": "Spirited Away",
@@ -444,7 +465,8 @@
     "converters": [
       "batenjan"
     ],
-    "preview": "https://youtu.be/HUblK4t0e0I"
+    "preview": "https://youtu.be/HUblK4t0e0I",
+    "lufs": "-20.74"
   },
   {
     "game": "Memes",
@@ -459,7 +481,8 @@
     "converters": [
       "Fish_waffle64"
     ],
-    "preview": "https://youtu.be/3M3jvLcEZYk"
+    "preview": "https://youtu.be/3M3jvLcEZYk",
+    "lufs": "-18.55"
   },
   {
     "game": "Memes",
@@ -474,7 +497,8 @@
     "converters": [
       "Fish_waffle64"
     ],
-    "preview": "https://youtu.be/RJnnNTFBnqE"
+    "preview": "https://youtu.be/RJnnNTFBnqE",
+    "lufs": "-18.71"
   },
   {
     "game": "Persona 5",
@@ -489,7 +513,8 @@
     "converters": [
       "3Pills"
     ],
-    "preview": "https://youtu.be/tPJ87BscQY4"
+    "preview": "https://youtu.be/tPJ87BscQY4",
+    "lufs": "-16.14"
   },
   {
     "game": "Antonín Dvořák",
@@ -504,7 +529,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/bVgfwsVLWuw"
+    "preview": "https://youtu.be/bVgfwsVLWuw",
+    "lufs": "-23.35"
   },
   {
     "game": "Brujeria",
@@ -519,7 +545,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/F_SQ-LZQa8Y"
+    "preview": "https://youtu.be/F_SQ-LZQa8Y",
+    "lufs": "-13.71"
   },
   {
     "game": "The Shining",
@@ -534,7 +561,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/MUX-JfR0O1g"
+    "preview": "https://youtu.be/MUX-JfR0O1g",
+    "lufs": "-19.86"
   },
   {
     "game": "DragonForce",
@@ -564,7 +592,8 @@
     ],
     "uuid": "0bb8c21c-6199-4419-a1f0-d3465c16c581",
     "file": "DragonForce/Through the Fire and Flames Riff.ootrs",
-    "preview": "DragonForce/Through the Fire and Flames Riff.mp3"
+    "preview": "DragonForce/Through the Fire and Flames Riff.mp3",
+    "lufs": "-19.53"
   },
   {
     "game": "DragonForce",
@@ -617,7 +646,8 @@
     ],
     "uuid": "053494f5-74c4-4247-ab6f-2f657f8b8b1a",
     "file": "DragonForce/Through the Fire and Flames.ootrs",
-    "preview": "DragonForce/Through the Fire and Flames.mp3"
+    "preview": "DragonForce/Through the Fire and Flames.mp3",
+    "lufs": "-16.41"
   },
   {
     "game": "Elvis Crespo",
@@ -640,7 +670,8 @@
     "preview": "Elvis Crespo/Suavemente (MIDI version).mp3",
     "converters": [
       "Tolin"
-    ]
+    ],
+    "lufs": "-17.14"
   },
   {
     "game": "Boris Mokrousov",
@@ -655,7 +686,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/W60Y8nFDT4I"
+    "preview": "https://youtu.be/W60Y8nFDT4I",
+    "lufs": "-18.39"
   },
   {
     "game": "Georges Brassens",
@@ -670,7 +702,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/bAOCVTyqntQ"
+    "preview": "https://youtu.be/bAOCVTyqntQ",
+    "lufs": "-21.77"
   },
   {
     "game": "Impaled Nazarene",
@@ -685,7 +718,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/lXshYQpVifc"
+    "preview": "https://youtu.be/lXshYQpVifc",
+    "lufs": "-12.13"
   },
   {
     "game": "Inti Illimani",
@@ -700,7 +734,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/q-ubZ-6SFXA"
+    "preview": "https://youtu.be/q-ubZ-6SFXA",
+    "lufs": "-13.99"
   },
   {
     "game": "Oldboy",
@@ -718,7 +753,8 @@
     "composers": [
       "Jo Yeong-wook"
     ],
-    "preview": "https://youtu.be/v0Tn3NK4fTY"
+    "preview": "https://youtu.be/v0Tn3NK4fTY",
+    "lufs": "-24.75"
   },
   {
     "game": "Lynyrd Skynyrd",
@@ -752,7 +788,8 @@
     "converters": [
       "Yackole"
     ],
-    "preview": "Lynyrd Skynyrd/Free Bird Solo.mp3"
+    "preview": "Lynyrd Skynyrd/Free Bird Solo.mp3",
+    "lufs": "-16.60"
   },
   {
     "game": "Yngwie Malmsteen",
@@ -767,7 +804,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/NI1C2RhMyo4"
+    "preview": "https://youtu.be/NI1C2RhMyo4",
+    "lufs": "-16.59"
   },
   {
     "game": "Yngwie Malmsteen",
@@ -782,7 +820,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/ldyNu0-6CrU"
+    "preview": "https://youtu.be/ldyNu0-6CrU",
+    "lufs": "-18.86"
   },
   {
     "game": "Mariah Carey",
@@ -835,7 +874,8 @@
     "usesFormmask": false,
     "uuid": "7554f505-8c22-46a0-b4be-1b4dfa643bb0",
     "file": "Mariah Carey/All I Want For Christmas Is You.ootrs",
-    "preview": "Mariah Carey/All I Want For Christmas Is You.mp3"
+    "preview": "Mariah Carey/All I Want For Christmas Is You.mp3",
+    "lufs": "-16.58"
   },
   {
     "game": "Matvey Blanter",
@@ -850,7 +890,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/FNvQfFdZkL8"
+    "preview": "https://youtu.be/FNvQfFdZkL8",
+    "lufs": "-21.56"
   },
   {
     "game": "Mordechai Gebirtig",
@@ -865,7 +906,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/HY6aLxcCqIA"
+    "preview": "https://youtu.be/HY6aLxcCqIA",
+    "lufs": "-22.01"
   },
   {
     "game": "Olivia Rodrigo",
@@ -918,7 +960,8 @@
     "usesFormmask": false,
     "uuid": "2183eb2f-89c4-4193-a4ea-0ed90a0f8c37",
     "file": "Olivia Rodrigo/vampire.ootrs",
-    "preview": "Olivia Rodrigo/vampire.mp3"
+    "preview": "Olivia Rodrigo/vampire.mp3",
+    "lufs": "-19.36"
   },
   {
     "game": "Rage Against The Machine",
@@ -933,7 +976,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/ysHkwLBVyvM"
+    "preview": "https://youtu.be/ysHkwLBVyvM",
+    "lufs": "-16.74"
   },
   {
     "game": "Rick Astley",
@@ -948,7 +992,8 @@
     "converters": [
       "SlyryD"
     ],
-    "preview": "https://youtu.be/H6Yps1-8I0Y"
+    "preview": "https://youtu.be/H6Yps1-8I0Y",
+    "lufs": "-15.87"
   },
   {
     "game": "Sandy Marton",
@@ -963,7 +1008,8 @@
     "converters": [
       "PolyGanon"
     ],
-    "preview": "https://youtu.be/bBWWK_KmF-Q"
+    "preview": "https://youtu.be/bBWWK_KmF-Q",
+    "lufs": "-25.52"
   },
   {
     "game": "Smash Mouth",
@@ -978,7 +1024,8 @@
     "converters": [
       "NewSoupVi"
     ],
-    "preview": "https://youtu.be/EETk0Rhucxo"
+    "preview": "https://youtu.be/EETk0Rhucxo",
+    "lufs": "-10.29"
   },
   {
     "game": "Summoning",
@@ -993,7 +1040,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/WnR9ysOZulA"
+    "preview": "https://youtu.be/WnR9ysOZulA",
+    "lufs": "-18.39"
   },
   {
     "game": "Summoning",
@@ -1008,7 +1056,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/VPLPq2TIf8I"
+    "preview": "https://youtu.be/VPLPq2TIf8I",
+    "lufs": "-14.05"
   },
   {
     "game": "Toxic Holocaust",
@@ -1023,7 +1072,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/Sn_zDuzcbpk"
+    "preview": "https://youtu.be/Sn_zDuzcbpk",
+    "lufs": "-16.96"
   },
   {
     "game": "Unknown",
@@ -1038,7 +1088,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/VHFSrjVHDoE"
+    "preview": "https://youtu.be/VHFSrjVHDoE",
+    "lufs": "-16.75"
   },
   {
     "game": "Víctor Jara",
@@ -1053,7 +1104,8 @@
     "converters": [
       "doncamillo"
     ],
-    "preview": "https://youtu.be/BZGN5BNZCmg"
+    "preview": "https://youtu.be/BZGN5BNZCmg",
+    "lufs": "-19.80"
   },
   {
     "game": "Sonic Adventure 2",
@@ -1068,7 +1120,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/RBRymJplqqI"
+    "preview": "https://youtu.be/RBRymJplqqI",
+    "lufs": "-16.99"
   },
   {
     "game": "The Legend of Zelda: Spirit Tracks",
@@ -1083,7 +1136,8 @@
     "converters": [
       "Owl Is Not A Cat"
     ],
-    "preview": "https://youtu.be/uhpwQjVgW_4"
+    "preview": "https://youtu.be/uhpwQjVgW_4",
+    "lufs": "-16.29"
   },
   {
     "game": "Touhou 11: Subterranean Animism",
@@ -1116,7 +1170,8 @@
     "usesFormmask": false,
     "uuid": "3e8a80cf-11ef-4951-bfcd-f080801d32ae",
     "file": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.ootrs",
-    "preview": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.mp3"
+    "preview": "Touhou 11 Subterranean Animism/Hartmann's Youkai Girl.mp3",
+    "lufs": "-11.94"
   },
   {
     "game": "Touhou 15: Legacy of Lunatic Kingdom",
@@ -1144,7 +1199,8 @@
     "usesFormmask": false,
     "uuid": "7df690ef-879a-4b8c-aa35-fd212842d8b2",
     "file": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies.ootrs",
-    "preview": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies.mp3"
+    "preview": "Touhou 15 Legacy of Lunatic Kingdom/Pure Furies.mp3",
+    "lufs": "-15.62"
   },
   {
     "game": "Touhou 18: Unconnected Marketeers",
@@ -1175,7 +1231,8 @@
     "converters": [
       "Shijima"
     ],
-    "preview": "Touhou 18 Unconnected Marketeers/The Princess Who Slays Dragon Kings.mp3"
+    "preview": "Touhou 18 Unconnected Marketeers/The Princess Who Slays Dragon Kings.mp3",
+    "lufs": "-17.48"
   },
   {
     "game": "Touhou 4: Lotus Land Story",
@@ -1217,7 +1274,8 @@
     "usesFormmask": false,
     "uuid": "32517e3f-9e93-42d2-9139-ee7738262f7c",
     "file": "Touhou 4 Lotus Land Story/Bad Apple Nomico Remix.ootrs",
-    "preview": "Touhou 4 Lotus Land Story/Bad Apple Nomico Remix.mp3"
+    "preview": "Touhou 4 Lotus Land Story/Bad Apple Nomico Remix.mp3",
+    "lufs": "-15.31"
   },
   {
     "game": "Touhou 4: Lotus Land Story",
@@ -1232,7 +1290,8 @@
     "converters": [
       "Bluwiikoon"
     ],
-    "preview": "https://youtu.be/itvoh3nvKVs"
+    "preview": "https://youtu.be/itvoh3nvKVs",
+    "lufs": "-18.24"
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
@@ -1271,7 +1330,8 @@
     "converters": [
       "Shijima"
     ],
-    "preview": "https://youtu.be/FMwEn0jXTv4"
+    "preview": "https://youtu.be/FMwEn0jXTv4",
+    "lufs": "-23.20"
   },
   {
     "game": "Touhou 6: The Embodiment of Scarlet Devil",
@@ -1286,7 +1346,8 @@
     "converters": [
       "Bluwiikoon"
     ],
-    "preview": "https://youtu.be/AYzqFiutb2k"
+    "preview": "https://youtu.be/AYzqFiutb2k",
+    "lufs": "-19.22"
   },
   {
     "game": "Touhou 8: Imperishable Night",
@@ -1301,7 +1362,8 @@
     "converters": [
       "RR"
     ],
-    "preview": "https://youtu.be/Fr3HDWLMbyI"
+    "preview": "https://youtu.be/Fr3HDWLMbyI",
+    "lufs": "-18.35"
   },
   {
     "game": "Touhou CD 3: Changeability of Strange Dream",
@@ -1333,7 +1395,8 @@
     "usesFormmask": false,
     "uuid": "ce61b964-6b59-4cf2-b2d7-f53c5ff690d8",
     "file": "Touhou CD 3 Changeability of Strange Dream/Kid's Festival ~ Innocent Treasures.ootrs",
-    "preview": "Touhou CD 3 Changeability of Strange Dream/Kid's Festival ~ Innocent Treasures.mp3"
+    "preview": "Touhou CD 3 Changeability of Strange Dream/Kid's Festival ~ Innocent Treasures.mp3",
+    "lufs": "-15.79"
   },
   {
     "game": "Touhou CD 5: Magical Astronomy",
@@ -1364,7 +1427,8 @@
     "usesFormmask": false,
     "uuid": "2952576a-47b1-44f5-b3c3-ef7fbc308bda",
     "file": "Touhou CD 5 Magical Astronomy/Greenwich in the Sky.ootrs",
-    "preview": "Touhou CD 5 Magical Astronomy/Greenwich in the Sky.mp3"
+    "preview": "Touhou CD 5 Magical Astronomy/Greenwich in the Sky.mp3",
+    "lufs": "-22.81"
   },
   {
     "game": "Frozen",
@@ -1414,7 +1478,8 @@
     "usesFormmask": false,
     "uuid": "bd4b08f1-5154-4a1b-8841-2a45993a24b4",
     "file": "Frozen/Let It Go.ootrs",
-    "preview": "Frozen/Let It Go.mp3"
+    "preview": "Frozen/Let It Go.mp3",
+    "lufs": "-18.39"
   },
   {
     "game": "LazyTown",
@@ -1429,7 +1494,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/cmBQPLF0UsI"
+    "preview": "https://youtu.be/cmBQPLF0UsI",
+    "lufs": "-18.05"
   },
   {
     "game": "Merrie Melodies",
@@ -1450,7 +1516,8 @@
     "converters": [
       "Tolin"
     ],
-    "preview": "https://youtu.be/UuSKqSEubAI"
+    "preview": "https://youtu.be/UuSKqSEubAI",
+    "lufs": "-16.94"
   },
   {
     "game": "Merrie Melodies",
@@ -1477,7 +1544,8 @@
     "usesFormmask": false,
     "uuid": "52b2361e-b0b5-4b15-a14d-ff475154683b",
     "file": "Merrie Melodies/Merrily We Roll Along.ootrs",
-    "preview": "Merrie Melodies/Merrily We Roll Along.mp3"
+    "preview": "Merrie Melodies/Merrily We Roll Along.mp3",
+    "lufs": "-16.78"
   },
   {
     "game": "Nightmare Before Christmas",
@@ -1492,7 +1560,8 @@
     "converters": [
       "Darkangel93x"
     ],
-    "preview": "https://youtu.be/OMXWmoGZbaI"
+    "preview": "https://youtu.be/OMXWmoGZbaI",
+    "lufs": "-23.56"
   },
   {
     "game": "Rick And Morty",
@@ -1507,7 +1576,8 @@
     "converters": [
       "Owl Is Not A Cat"
     ],
-    "preview": "https://youtu.be/66ZHGYKqW4Q"
+    "preview": "https://youtu.be/66ZHGYKqW4Q",
+    "lufs": "-32.70"
   },
   {
     "game": "Robot Wars (TV show)",
@@ -1526,7 +1596,8 @@
     "converters": [
       "KamekoSkye"
     ],
-    "preview": "https://youtu.be/Mj0O6kdMGi8"
+    "preview": "https://youtu.be/Mj0O6kdMGi8",
+    "lufs": "-16.34"
   },
   {
     "game": "SpongeBob SquarePants",
@@ -1538,7 +1609,8 @@
     "usesFormmask": false,
     "uuid": "5194d0d7-66bf-4a8f-8318-b329d3d6ea7a",
     "file": "SpongeBob SquarePants/Grass Skirt Chase.ootrs",
-    "preview": "SpongeBob SquarePants/Grass Skirt Chase.mp3"
+    "preview": "SpongeBob SquarePants/Grass Skirt Chase.mp3",
+    "lufs": "-13.67"
   },
   {
     "game": "The Godfather",
@@ -1550,7 +1622,8 @@
     "usesFormmask": false,
     "uuid": "a425d71e-a895-40c1-84cf-38abcf98675c",
     "file": "The Godfather/Love Theme.ootrs",
-    "preview": "The Godfather/Love Theme.mp3"
+    "preview": "The Godfather/Love Theme.mp3",
+    "lufs": "-15.89"
   },
   {
     "game": "Twin Peaks",
@@ -1577,7 +1650,8 @@
     "usesFormmask": false,
     "uuid": "9b8007dc-3080-44c6-a4d1-d624c9a2bf20",
     "file": "Twin Peaks/Laura Palmer's Theme.ootrs",
-    "preview": "Twin Peaks/Laura Palmer's Theme.mp3"
+    "preview": "Twin Peaks/Laura Palmer's Theme.mp3",
+    "lufs": "-16.24"
   },
   {
     "game": "X-Men The Animated Series",
@@ -1589,7 +1663,8 @@
     "usesFormmask": false,
     "uuid": "3ab8d820-27d1-481f-afaa-1cd3c637085d",
     "file": "X-Men The Animated Series/Opening.ootrs",
-    "preview": "https://youtu.be/YK0AqX-XDmQ"
+    "preview": "https://youtu.be/YK0AqX-XDmQ",
+    "lufs": "-25.16"
   },
   {
     "game": "Undertale",
@@ -1612,7 +1687,8 @@
     "usesFormmask": false,
     "uuid": "4152ebb1-81e6-424a-9894-049d61e410a6",
     "file": "Undertale/Alphys.ootrs",
-    "preview": "Undertale/Alphys.mp3"
+    "preview": "Undertale/Alphys.mp3",
+    "lufs": "-16.58"
   },
   {
     "game": "Undertale",
@@ -1633,7 +1709,8 @@
     "usesFormmask": false,
     "uuid": "eabec8fe-bff4-4d87-ae6a-8d19a3e147e6",
     "file": "Undertale/Battle Against A True Hero.ootrs",
-    "preview": "Undertale/Battle Against A True Hero.mp3"
+    "preview": "Undertale/Battle Against A True Hero.mp3",
+    "lufs": "-16.52"
   },
   {
     "game": "Undertale",
@@ -1663,7 +1740,8 @@
     "usesFormmask": false,
     "uuid": "03e04c78-3027-47a7-84c4-a39f8a8b8dc2",
     "file": "Undertale/CYRCTAHIDRAMOMPOA.ootrs",
-    "preview": "Undertale/CYRCTAHIDRAMOMPOA.mp3"
+    "preview": "Undertale/CYRCTAHIDRAMOMPOA.mp3",
+    "lufs": "-15.58"
   },
   {
     "game": "Undertale",
@@ -1687,7 +1765,8 @@
     "usesFormmask": false,
     "uuid": "f2190139-0e56-478d-adc0-709dad1e1dfe",
     "file": "Undertale/Death By Glamour.ootrs",
-    "preview": "Undertale/Death By Glamour.mp3"
+    "preview": "Undertale/Death By Glamour.mp3",
+    "lufs": "-16.40"
   },
   {
     "game": "Undertale",
@@ -1708,7 +1787,8 @@
     "usesFormmask": false,
     "uuid": "e572d83e-8ff1-4131-b6d8-49806febec50",
     "file": "Undertale/MEGALOVANIA V2.ootrs",
-    "preview": "Undertale/MEGALOVANIA V2.mp3"
+    "preview": "Undertale/MEGALOVANIA V2.mp3",
+    "lufs": "-19.36"
   },
   {
     "game": "Undertale",
@@ -1734,7 +1814,8 @@
     "usesFormmask": false,
     "uuid": "983e2ea2-71fe-4558-bf74-728e7d8ec51f",
     "file": "Undertale/Temmie Village.ootrs",
-    "preview": "Undertale/Temmie Village.mp3"
+    "preview": "Undertale/Temmie Village.mp3",
+    "lufs": "-17.57"
   },
   {
     "game": "Deltarune",
@@ -1757,7 +1838,8 @@
     "usesFormmask": false,
     "uuid": "7a02f2a9-4a06-45b1-924d-8639344ad3a7",
     "file": "Deltarune/HEY EVERY !.ootrs",
-    "preview": "Deltarune/HEY EVERY !.mp3"
+    "preview": "Deltarune/HEY EVERY !.mp3",
+    "lufs": "-16.41"
   },
   {
     "game": "Undertale",
@@ -1778,7 +1860,8 @@
     "usesFormmask": false,
     "uuid": "df4075f5-9872-448f-896c-9d22304dd0f8",
     "file": "Undertale/Megalovania.ootrs",
-    "preview": "Undertale/Megalovania.mp3"
+    "preview": "Undertale/Megalovania.mp3",
+    "lufs": "-18.06"
   },
   {
     "game": "Undertale",
@@ -1802,7 +1885,8 @@
     "usesFormmask": false,
     "uuid": "d1fec6e0-07b8-4b47-ba11-fe1118f8d5ef",
     "file": "Undertale/sans.ootrs",
-    "preview": "Undertale/sans.mp3"
+    "preview": "Undertale/sans.mp3",
+    "lufs": "-16.36"
   },
   {
     "game": "Undertale",
@@ -1881,7 +1965,8 @@
     "usesFormmask": false,
     "uuid": "5557b4dc-d83c-4efb-b342-c8b52590ac60",
     "file": "Undertale/Dummy!.ootrs",
-    "preview": "Undertale/Dummy!.mp3"
+    "preview": "Undertale/Dummy!.mp3",
+    "lufs": "-12.50"
   },
   {
     "game": "Undertale",
@@ -1960,7 +2045,8 @@
     "usesFormmask": false,
     "uuid": "09734453-ac04-47f4-b630-0d1a8ddb6d45",
     "file": "Undertale/Bonetrousle.ootrs",
-    "preview": "Undertale/Bonetrousle.mp3"
+    "preview": "Undertale/Bonetrousle.mp3",
+    "lufs": "-13.48"
   },
   {
     "game": "Undertale",
@@ -2039,7 +2125,8 @@
     "usesFormmask": false,
     "uuid": "72de0302-681e-43be-9d57-6bf3302da87a",
     "file": "Undertale/Another Medium.ootrs",
-    "preview": "Undertale/Another Medium.mp3"
+    "preview": "Undertale/Another Medium.mp3",
+    "lufs": "-12.45"
   },
   {
     "game": "Undertale",
@@ -2118,7 +2205,8 @@
     "usesFormmask": false,
     "uuid": "689acf2a-77a0-47cc-99b6-f77fc9e71b27",
     "file": "Undertale/Bergentrückung + Asgore.ootrs",
-    "preview": "Undertale/Bergentrückung + Asgore.mp3"
+    "preview": "Undertale/Bergentrückung + Asgore.mp3",
+    "lufs": "-10.34"
   },
   {
     "game": "Undertale",
@@ -2197,7 +2285,8 @@
     "usesFormmask": false,
     "uuid": "7daf6e6b-d556-4d3b-955c-17857b921ae5",
     "file": "Undertale/Ruins.ootrs",
-    "preview": "Undertale/Ruins.mp3"
+    "preview": "Undertale/Ruins.mp3",
+    "lufs": "-17.97"
   },
   {
     "game": "Undertale",
@@ -2276,7 +2365,8 @@
     "usesFormmask": false,
     "uuid": "25cba986-710e-4609-8989-bc55697f0771",
     "file": "Undertale/Here we are.ootrs",
-    "preview": "Undertale/Here we are.mp3"
+    "preview": "Undertale/Here we are.mp3",
+    "lufs": "-14.35"
   },
   {
     "game": "Deltarune",
@@ -2355,7 +2445,8 @@
     "usesFormmask": false,
     "uuid": "25d9d9c7-6e82-4193-a570-68d3e00ceb9b",
     "file": "Deltarune/Dark Sanctuary.ootrs",
-    "preview": "Deltarune/Dark Sanctuary.mp3"
+    "preview": "Deltarune/Dark Sanctuary.mp3",
+    "lufs": "-16.43"
   },
   {
     "game": "Deltarune",
@@ -2434,7 +2525,8 @@
     "usesFormmask": false,
     "uuid": "30833458-f177-4987-969b-c40bd04853d5",
     "file": "Deltarune/It's Pronounced Rules.ootrs",
-    "preview": "Deltarune/It's Pronounced Rules.mp3"
+    "preview": "Deltarune/It's Pronounced Rules.mp3",
+    "lufs": "-15.74"
   },
   {
     "game": "Deltarune",
@@ -2513,6 +2605,7 @@
     "usesFormmask": false,
     "uuid": "0401dc39-d27c-499b-a55f-502eafae4f7f",
     "file": "Deltarune/Scarlet Forest.ootrs",
-    "preview": "Deltarune/Scarlet Forest.mp3"
+    "preview": "Deltarune/Scarlet Forest.mp3",
+    "lufs": "-14.90"
   }
 ]
